@@ -1,0 +1,223 @@
+Large Magellanic Cloud %大麥哲倫雲 %Galaxy % %5.393333 %-69.75 %0.1
+Small Magellanic Cloud %小麥哲倫雲 %Galaxy % %0.878333 %-72.8333 %2.3
+Coathanger Cluster %衣架星團 %Open cluster % %19.42528 %20.19083 %3.6
+California Nebula %加州星雲 %Nebula % %4.056667 %36.37361 %5
+Cone Nebula %角錐星雲 %Nebula % %6.685 %9.895556 %3.9
+Crab Nebula %蟹狀星雲 %Nebula %M1 %5.575 %22.0166666666667 %8.4
+ % %Globular cluster %M2 %21.55833 %-0.81667 %6.5
+ % %Globular cluster %M3 %13.70333 %28.38333 %6.2
+ % %Globular cluster %M4 %16.395 %-26.5333 %5.6
+ % %Globular cluster %M5 %15.31 %2.083333 %5.6
+Butterfly Cluster %蝴蝶星團 %Open cluster %M6 %17.66833 %-32.2167 %4.2
+The Scorpion's Tail, Ptolemy's Cluster %蝎尾星團、托勒密星團 %Open cluster %M7 %17.89833 %-34.8167 %3.3
+Lagoon Nebula %礁湖星雲 %Nebula %M8 %18.0783333333333 %-24.3833 %6
+ % %Globular cluster %M9 %17.32 %-18.5167 %7.7
+ % %Globular cluster %M10 %16.95167 %-4.1 %6.6
+Wild Duck Cluster %野鴨星團 %Open cluster %M11 %18.85167 %-6.26667 %6.3
+ % %Globular cluster %M12 %16.78667 %-1.95 %6.7
+Hercules Cluster %武仙座星團 %Globular cluster %M13 %16.695 %36.46667 %5.8
+ % %Globular cluster %M14 %17.62667 %-3.25 %7.6
+ % %Globular cluster %M15 %21.5 %12.1666666666667 %6.2
+ % %Open cluster %M16 %18.3133333333333 %-13.7833333333333 %6.4
+Omega Nebula, Swan Nebula, Horseshoe Nebula, Lobster Nebula  %奧米加星雲、天鵝星雲、馬蹄鐵星雲、龍蝦星雲 %Nebula %M17 %18.3483333333333 %-16.1833333333333 %6
+ % %Open cluster %M18 %18.33167 %-17.1333 %7.5
+ % %Globular cluster %M19 %17.04333 %-26.2667 %6.8
+Trifid Nebula %三裂星雲 %Nebula %M20 %18.0316666666667 %-23.0333333333333 %9
+ % %Open cluster %M21 %18.07667 %-22.5 %6.5
+ % %Globular cluster %M22 %18.60667 %-23.9 %5.1
+ % %Open cluster %M23 %17.94667 %-19.0167 %6.9
+Sagittarius Star Cloud, Delle Caustiche %人馬座恆星星雲 %Milky Way Patch %M24 %18.28167 %-18.4833 %4.6
+ % %Open cluster %M25 %18.52667 %-19.25 %6.5
+ % %Open cluster %M26 %18.75333 %-9.4 %8
+Dumbbell Nebula %啞鈴星雲 %Nebula %M27 %19.9933333333333 %22.7166666666667 %7.4
+ % %Globular cluster %M28 %18.40833 %-24.8667 %6.8
+ % %Open cluster %M29 %20.39833 %38.5333 %7.1
+ % %Globular cluster %M30 %21.67333 %-23.1833 %7.2
+Andromeda Galaxy %仙女座大星系 %Galaxy %M31 %0.711666666666667 %41.2666666666667 %3.4
+ % %Galaxy %M32 %0.711667 %40.86667 %8.1
+Triangulum galaxy %三角座星系 %Galaxy %M33 %1.565 %30.65 %5.7
+ % %Open cluster %M34 %2.7 %42.78333 %5.5
+ % %Open cluster %M35 %6.148333 %24.33333 %5.3
+ % %Open cluster %M36 %5.601667 %34.13333 %6.3
+ % %Open cluster %M37 %5.873333 %32.55 %6.2
+ % %Open cluster %M38 %5.473333 %35.83333 %7.4
+ % %Open cluster %M39 %21.53667 %48.43333 %4.6
+Winnecke 4 %WNC 4 %Double Star %M40 %12.37333 %58.08333 %8.4
+ % %Open cluster %M41 %6.766667 %-20.7333 %4.6
+Orion nebula %獵戶座大星雲 %Nebula %M42 %5.59166666666667 %-5.45 %4
+De Mairan's Nebula %德梅倫星雲 %Nebula %M43 %5.59333 %-5.26667 %9
+Beehive Cluster, Praesepe %鬼星團、蜂巢星團 %Open cluster %M44 %8.67333333333333 %19.6833333333333 %3.7
+Pleiades %昴星團、七姊妹星團 %Open cluster %M45 %3.78166666666667 %24.1166666666667 %1.6
+ % %Open cluster %M46 %7.696667 %-14.8167 %6
+ % %Open cluster %M47 %7.61 %-14.5 %5.2
+ % %Open cluster %M48 %8.23 %-5.8 %5.5
+ % %Galaxy %M49 %12.49667 %8 %8.4
+ % %Open cluster %M50 %7.053333 %-8.33333 %6.3
+Whirlpool galaxy %渦狀星系 %Galaxy %M51 %13.4983333333333 %47.2 %8.4
+ % %Open cluster %M52 %23.4033333333333 %61.6 %7.3
+ % %Globular cluster %M53 %13.215 %18.16667 %7.6
+ % %Globular cluster %M54 %18.91833 %-30.4833 %7.6
+ % %Globular cluster %M55 %19.66667 %-30.9667 %6.3
+ % %Globular cluster %M56 %19.27667 %30.18333 %8.3
+Ring nebula %戒指星雲 %Nebula %M57 %18.8933333333333 %33.0333333333333 %8.8
+ % %Galaxy %M58 %12.62833 %11.81667 %9.7
+ % %Galaxy %M59 %12.7 %11.65 %9.6
+ % %Galaxy %M60 %12.72833 %11.55 %8.8
+ % %Galaxy %M61 %12.365 %4.46667 %9.7
+ % %Globular cluster %M62 %17.02 %-30.1167 %6.5
+Sunflower Galaxy %葵花星系、向日葵星系 %Galaxy %M63 %13.26333 %42.03333 %8.6
+Black-eye Galaxy, Sleeping Beauty Galaxy %黑眼星系、睡美人星系 %Galaxy %M64 %12.945 %21.68333 %8.5
+ % %Galaxy %M65 %11.315 %13.08333 %9.3
+ % %Galaxy %M66 %11.33667 %12.98333 %8.9
+ % %Open cluster %M67 %8.84 %11.81667 %6.1
+ % %Globular cluster %M68 %12.65833 %-26.75 %7.8
+ % %Globular cluster %M69 %18.52333 %-32.35 %7.6
+ % %Globular cluster %M70 %18.72 %-32.3 %7.9
+ % %Globular cluster %M71 %19.89667 %18.78333 %8.2
+ % %Globular cluster %M72 %20.89167 %-12.5333 %9.3
+ % %Group or Asterism of 4 Stars %M73 %20.98167 %-12.6333 %9
+ % %Galaxy %M74 %1.611667 %15.78333 %9.4
+ % %Globular cluster %M75 %20.10167 %-21.9167 %8.5
+Little Dumbbell Nebula %小啞鈴星雲 %Nebula %M76 %1.706667 %51.56667 %10.1
+Cetus A %鯨魚座A星系 %Galaxy %M77 %2.711667 %-0.01667 %8.9
+ % %Nebula %M78 %5.778333 %0.05 %8.3
+ % %Globular cluster %M79 %5.408333 %-24.55 %7.7
+ % %Globular cluster %M80 %16.28333 %-22.9833 %7.3
+Bode's Galaxy %波德星系 %Galaxy %M81 %9.92666666666667 %69.0666666666667 %6.9
+Cigar Galaxy %雪茄星系 %Galaxy %M82 %9.93333333333333 %69.7 %8.4
+Southern Pinwheel %南風車星系 %Galaxy %M83 %13.61667 %-29.8667 %7.6
+ % %Galaxy %M84 %12.41833 %12.88333 %9.1
+ % %Galaxy %M85 %12.42333 %18.18333 %9.1
+ % %Galaxy %M86 %12.43667 %12.95 %8.9
+Virgo A %室女座A星系 %Galaxy %M87 %12.51333 %12.4 %8.6
+ % %Galaxy %M88 %12.53333 %14.41667 %9.6
+ % %Galaxy %M89 %12.595 %12.55 %9.8
+ % %Galaxy %M90 %12.61333 %13.16667 %9.5
+ % %Galaxy %M91 %12.59 %14.5 %10.2
+ % %Globular cluster %M92 %17.285 %43.13333 %6.4
+ % %Open cluster %M93 %7.743333 %-22.1333 %6
+ % %Galaxy %M94 %12.84833 %41.11667 %8.2
+ % %Galaxy %M95 %10.73333 %11.7 %9.7
+ % %Galaxy %M96 %10.78 %11.81667 %9.2
+Owl Nebula %貓頭鷹星雲 %Nebula %M97 %11.24667 %55.01667 %9.9
+ % %Galaxy %M98 %12.23 %14.9 %10.1
+ % %Galaxy %M99 %12.31333 %14.41667 %9.9
+ % %Galaxy %M100 %12.38167 %15.81667 %9.3
+Pinwheel Galaxy %車輪星系、風車星系、火輪星系 %Galaxy %M101 %14.0533333333333 %54.35 %7.9
+ % %Open cluster %M103 %1.553333 %60.7 %7.4
+Sombrero Galaxy %草帽星系 %Galaxy %M104 %12.665 %-11.6166666666667 %8
+ % %Galaxy %M105 %10.79667 %12.58333 %9.3
+ % %Galaxy %M106 %12.31667 %47.3 %8.4
+ % %Globular cluster %M107 %16.54167 %-13.05 %7.9
+ % %Galaxy %M108 %11.19167 %55.66667 %10
+ % %Galaxy %M109 %11.96 %53.38333 %9.8
+ % %Galaxy %M110 %0.673333 %41.68333 %8.5
+ % %Open cluster %NGC188 %0.74 %85.3333 %8.1
+ % %Nebula %NGC40 %0.216667 %72.53333 %12.4
+ % %Galaxy %NGC4236 %12.27833 %69.46667 %9.7
+ % %Nebula %NGC7023 %21.03 %68.2 %7.1
+ % %Galaxy % %3.78 %68.1 %9.2
+Cat's Eye Nebula %貓眼星雲 %Nebula %NGC6543 %17.97667 %66.63333 %8.1
+ % %Galaxy %NGC2403 %7.615 %65.6 %8.4
+ % %Open cluster %NGC559 %1.491667 %63.3 %9.5
+Cave Nebula %洞穴星雲 %Nebula % %22.94667 %62.61667 %7.6
+ % %Open cluster %NGC663 %1.766667 %61.25 %7.1
+Bubble Nebula %氣泡星雲 %Nebula %NGC7635 %23.345 %61.2 %11
+ % %Galaxy %NGC6946 %20.58 %60.15 %8.9
+Owl Cluster, Phi Cas Cluster %貓頭鷹星團 %Open cluster %NGC457 %1.318333 %58.33333 %6.4
+Double Cluster h and Chi Persei %英仙座h和c雙星團 %Open cluster %NGC869/884 %2.333333 %57.13333 %4.3
+Blinking Nebula %眨眼星雲 %Nebula %NGC6826 %19.74667 %50.51667 %8.8
+ % %Open cluster %NGC7243 %22.255 %49.88333 %6.4
+ % %Galaxy %NGC147 %0.553333 %48.5 %9.3
+ % %Galaxy %NGC185 %0.65 %48.33333 %9.2
+Cocoon Nebula % 繭星雲 %Nebula % %21.89167 %47.26667 %7.2
+North America Nebula %北美洲星雲 %Nebula %NGC7000 %20.98 %44.33333 %4
+ % %Galaxy %NGC4449 %12.47 %44.1 %9.4
+Blue Snowball Nebula %藍雪球星雲 %Nebula %NGC7662 %23.43167 %42.55 %8.3
+ % %Galaxy %NGC891 %2.376667 %42.35 %9.9
+Perseus A Galaxy %英仙座A星系 %Galaxy %NGC1275 %3.33 %41.51667 %11.6
+ % %Globular cluster %NGC2419 %7.635 %38.88333 %10.4
+ % %Galaxy %NGC4244 %12.29167 %37.81667 %10.2
+Crescent Nebula %娥眉月星雲 %Nebula %NGC6888 %20.2 %38.35 %10
+ % %Open cluster %NGC752 %1.963333 %37.68333 %5.7
+ % %Galaxy %NGC5005 %13.18167 %37.05 %9.8
+ % %Galaxy %NGC7331 %22.61833 %34.41667 %9.5
+Flaming Star Nebula %火炎星雲 %Nebula % %5.27 %34.26667 %10
+Whale Galaxy %鯨魚星系 %Galaxy %NGC4631 %12.70167 %32.53333 %9.3
+Eastern Veil Nebula %東面紗星雲、東網狀星雲 %Nebula %NGC6992/5 %20.94 %31.71667 %7
+Western Veil Nebula %西面紗星雲、西網狀星雲 %Nebula %NGC6960 %20.76167 %30.71667 %7
+ % %Galaxy %NGC4889 %13.00167 %27.98333 %11.4
+ % %Galaxy %NGC4559 %12.6 %27.96667 %9.8
+ % %Open cluster %NGC6885 %20.2 %26.48333 %5.9
+Needle Galaxy %織針星系 %Galaxy %NGC4565 %12.43833 %25.9333 %9.6
+Eskimo Nebula %愛斯基摩星雲 %Nebula %NGC2392 %7.486667 %20.91667 %9.2
+ % %Galaxy %NGC3626 %11.335 %18.35 %10.9
+Hyades %畢星團 %Open cluster % %4.45 %16 %0.5
+ % %Globular cluster %NGC7006 %21.025 %16.18333 %10.6
+ % %Galaxy %NGC7814 %0.055 %16.15 %10.5
+ % %Galaxy %NGC7479 %23.08167 %12.31667 %11
+ % %Galaxy %NGC5248 %13.625 %8.883333 %10.2
+Hubble's Variable Nebula %哈勃變光星雲 %Nebula %NGC2261 %6.653333 %8.73333 %10
+ % %Globular cluster %NGC6934 %20.57 %7.4 %8.9
+ % %Galaxy %NGC2775 %9.171667 %7.033333 %10.3
+Rosette Nebula %玫瑰星雲 %Nebula %NGC2237-9 %6.538333 %5.05 %5.5
+ % %Open cluster %NGC2244 %6.54 %4.866667 %4.8
+ % %Galaxy % %1.08 %2.116667 %9.3
+ % %Galaxy %NGC4697 %12.81 %-5.8 %9.3
+Spindle Galaxy %紡錘星系 %Galaxy %NGC3115 %10.08667 %7.71667 %9.1
+ % %Open cluster %NGC2506 %8.003333 %-10.7833 %7.6
+Saturn Nebula %土星星雲 %Nebula %NGC7009 %21.07 %-11.3667 %8
+ % %Nebula %NGC246 %0.783333 %-11.8833 %10.9
+Barnard's Galaxy %巴納德星系 %Galaxy %NGC6822 %19.74833 %-14.8 %8.8
+ % %Open cluster %NGC2360 %7.296667 %-15.6167 %7.2
+Ghost of Jupiter Nebula %木星狀星雲、木星魂星雲 %Nebula %NGC3242 %10.41333 %-18.6333 %7.8
+ % %Galaxy %NGC4038 %12.03167 %-18.8667 %10.7
+ % %Galaxy %NGC4039 %12.03167 %-18.8833 %10.7
+ % %Galaxy %NGC247 %0.785 %-20.7667 %9.1
+Helix Nebula %螺旋星雲 %Nebula %NGC7293 %22.49333 %-20.8 %7.3
+Tau CMa Cluster %大犬座τ星團 %Open cluster %NGC2362 %7.313333 %-24.95 %4.1
+Sculptor Galaxy %玉夫星系 %Galaxy %NGC253 %0.793333 %-25.2833 %7.1
+ % %Globular cluster %NGC5694 %14.66 %-26.5333 %10.2
+ % %Galaxy %NGC1097 %2.771667 %-30.2833 %9.2
+R CrA Nebula %南冕R星雲 %Nebula %NGC6729 %19.03167 %-36.95 %9.7
+Bug Nebula %蟲星雲 %Nebula %NGC6302 %17.22833 %-37.1 %9.6
+ % %Galaxy %NGC300 %0.915 %-37.6833 %8.7
+ % %Open cluster %NGC2477 %7.871667 %-38.55 %5.8
+ % %Galaxy %NGC55 %0.248333 %-39.1833 %7.9
+ % %Globular cluster %NGC1851 %5.235 %-40.05 %7.3
+Eight-Burst Nebula %八字爆發星雲 %Nebula %NGC3132 %10.12833 %-40.4333 %9.4
+ % %Open cluster %NGC6124 %16.42667 %-40.6667 %5.8
+ % %Open cluster %NGC6231 %16.9 %-41.8 %2.6
+Centaurus A Galaxy %半人馬座A星系 %Galaxy %NGC5128 %13.425 %-43.0167 %7
+ % %Globular cluster %NGC6541 %18.13333 %-43.7 %6.6
+ % %Globular cluster %NGC3201 %10.29333 %-46.4167 %6.7
+Omega Centauri Cluster %半人馬座Ω星團、半人馬座奧米加星團 %Globular cluster %NGC5139 %13.44667 %-47.4833 %3.6
+ % %Globular cluster %NGC6352 %17.425 %-48.4167 %8.1
+ % %Open cluster %NGC6193 %16.68833 %-48.7667 %5.2
+ % %Galaxy %NGC4945 %13.09 %-49.4667 %8.7
+ % %Globular cluster %NGC5286 %13.77333 %-51.3667 %7.6
+Omicron Vela Cluster %船帆座ο星團 %Cluster %NGC2391 %8.67 %-53.0667 %2.5
+ % %Globular cluster %NGC6397 %17.67833 %-53.6667 %5.6
+ % %Globular cluster %NGC1261 %3.205 %-55.2167 %8.4
+ % %Open cluster %NGC5823 %15.095 %-55.6 %7.9
+S Normae Cluster %矩尺座S星團 %Open cluster %NGC6087 %16.315 %-57.9 %5.4
+ % %Nebula %NGC2867 %9.356667 %-58.3167 %10
+ % %Open cluster %NGC3532 %11.10667 %-58.6667 %3
+Eta Carina Nebula %船底座η星雲 %Nebula %NGC3372 %10.73 %-59.8667 %3
+ % %Globular cluster %NGC6752 %19.18167 %-59.9833 %5.4
+Jewel Box Cluster %寶盒星團 %Open cluster %NGC4755 %12.89333 %-60.3333 %4.2
+ % %Open cluster %NGC6025 %16.06167 %-60.5 %5.1
+ % %Open cluster %NGC2516 %7.971667 %-60.8667 %3.8
+ % %Open cluster %NGC3766 %11.60167 %-61.6167 %5.3
+ % %Open cluster %NGC4609 %12.705 %-62.9667 %6.9
+Coalsack Dark Nebula %煤袋暗星雲 %Nebula % %12.88333 %-63 %n.a.
+Lambda Centauri Cluster %半人馬座λ星團 %Open cluster % %11.61 %-63.0333 %4.5
+ % %Galaxy %NGC6744 %19.16333 %-63.85 %8.3
+Theta Carina Cluster %船底座θ星團 %Open cluster % %10.72 %-64.4 %1.9
+Tarantula Nebula %蜘蛛星雲、舞蛛星雲 %Nebula %NGC2070 %5.645 %-69.1 %5
+ % %Globular cluster %NGC362 %1.053333 %-70.85 %6.6
+ % %Globular cluster %NGC4833 %12.99333 %-70.8833 %6.4
+47 Tucanae Cluster %杜鵑47星團 %Globular cluster %NGC104 %0.401667 %-72.0833 %4
+ % %Globular cluster %NGC6101 %16.43 %-72.2 %9.3
+ % %Globular cluster %NGC4372 %12.43 %-72.6667 %7.8
+ % %Nebula %NGC3195 %10.15833 %-80.8667 %10

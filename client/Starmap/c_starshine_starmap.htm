@@ -1,0 +1,226 @@
+<html>
+
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="zh-hk">
+<title>香港太空館網上星圖</title>
+<SCRIPT type="text/javascript" src="ClientSniffer.js"></SCRIPT>
+<SCRIPT type="text/javascript" src="StarMap.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+var backColor = new Array(); // don't change this
+var fontColor = new Array(); // don't change this
+
+backColor[0] = '#FFFEF3';
+fontColor[0] = '#000000';
+backColor[1] = '#000000';
+fontColor[1] = '#FFFFFF';
+
+// Do not edit below this line.
+function changeBG(whichColor){
+document.bgColor = backColor[whichColor];
+document.fgColor = fontColor[whichColor];
+}
+</script>
+<style type="text/css">
+<!--
+A:visited  {color: rgb(255,255,255); text-decoration: none;}
+A:active  {color:  rgb(255,0,0); font-weight: bold; text-decoration:underline;}
+A:hover {color: blue; text-decoration: none;}
+A:link  {color: rgb(255,255,255); text-decoration: none; cursor: hand;}
+.FieldHeader {background-color:#FF9999;color:#FFFFFF;font-weight:bold;}
+.FieldColumnHeader {color:#FF3366;font-weight:bold;font-family:Verdana, Arial, Helvetica, sans-serif;height:20;}
+.PageDescription  {color:#666666;font-weight:bold;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:12;}
+.pageNav {text-decoration:underline;cursor:pointer; font-size:15px;font-family:"Courier New", Courier, mono;color:#FF0000}
+//-->
+</style>
+</head>
+
+<body bgcolor="#fffef3" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#ffffff" vlink="#ffffff" onload="initComponents(1);">
+
+
+
+<table border="0" width="730" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><img border="0" src="image/title_c.jpg" width="730" height="52"></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="middle" align="right">
+      <table border="0" width="30%" cellpadding="2">
+        <tr>
+          <td width="69%">
+            <p align="right"><font size="2" >桌 面 顏 色：</font></td> 
+          <td width="31%" align="left">
+      <p align="left"><font size="2" ><a href="javascript:changeBG(1)"><img border="0" src="image/bgcolor1.jpg" width="20" height="10"></a>  
+       <a href="javascript:changeBG(0)"><img border="0" src="image/bgcolor0.jpg" width="20" height="10"></a></font></td>
+        </tr>
+      </table>
+    </td> 
+  </tr> 
+  <tr> 
+    <td width="100%"> 
+	<form name=form1 action='' method='post'>  
+	<div id="page1">  
+      <p align="left"><font size="2"><b>觀 測 地 點 設 定</b><br>   
+      你 可 用 以 下 方 法 選 擇 觀 測 地 點 ：<br>                         
+      一 ) 從 表 中 選 出 適 當 城 市 ； 二 ) 直 接 輸 入 地 點 的 經 緯 度 ； 三 ) 在 世 界 地 圖 上 點 擊 觀 測 地 點 。</font></p>                         
+      <table border="0" width="85%" cellspacing="4" cellpadding="4">    
+        <tr>    
+          <td width="100%" bgcolor="#BEBEBE">    
+            <table border="0" width="100%" cellpadding="2">    
+              <tr>    
+                <td width="36%">    
+                  <table border="0" width="100%" cellspacing="0" cellpadding="0">    
+                    <tr>    
+                      <td width="27%">    
+                        <p align="right"><font color="#000000">地 區</font>&nbsp;&nbsp;</td>     
+                      <td width="73%"> <Select id="Region" onchange="javascript:changeRegion(this.options[this.selectedIndex].value)"></select></td>    
+                    </tr>    
+                  </table>    
+                </td>    
+                <td width="37%">    
+                  <table border="0" width="100%" cellspacing="0" cellpadding="0">    
+                    <tr>    
+                      <td width="28%">    
+                        <p align="right"><font color="#000000">國 家</font>&nbsp;&nbsp;</td>     
+                      <td width="72%"> <Select id="Country" onchange="javascript:changeCountry(this.options[this.selectedIndex].value)"></Select></td>    
+                    </tr>    
+                  </table>    
+                </td>    
+                <td width="27%">    
+                  <table border="0" width="100%" cellspacing="0" cellpadding="0">    
+                    <tr>    
+                      <td width="39%">    
+                        <p align="right"><font color="#000000">城 市</font>&nbsp;&nbsp;</td>     
+                      <td width="61%"> <Select id="City" onchange="javascript:changeCity(this.options[this.selectedIndex].value)"></Select></td>    
+                    </tr>    
+                  </table>    
+                </td>    
+              </tr>    
+              <tr>    
+                <td width="36%">    
+                  <table border="0" width="100%" cellspacing="0" cellpadding="0">    
+                    <tr>    
+                      <td width="27%">    
+                        <p align="right"><font color="#000000">經 度&nbsp;</font>&nbsp;</td>     
+                      <td width="73%">  
+                      <font color="#FFFFFF"> 
+                      <input type = text size = 7 id = "LONG" onchange="javascript:onChangeLONG();" name="4">
+                      </font><font color="#000000"> 
+		<input type="radio" id="LongitudeSign" name="LongitudeSign" value="東" onclick="javascript:onChangeLONG();" checked>東 
+		<input type="radio" id="LongitudeSign" name="LongitudeSign" value="西" onclick="javascript:onChangeLONG();">西</font> </td>    
+                    </tr>    
+                  </table>    
+                </td>    
+                <td width="37%">    
+                  <table border="0" width="100%" cellspacing="0" cellpadding="0">    
+                    <tr>    
+                      <td width="28%">    
+                        <p align="right"><font color="#000000">緯 度</font>&nbsp;&nbsp;</td>     
+                      <td width="72%">  
+                      <input type = text size = 8 id = "LAT" onchange="javascript:resetRegion();" name="5"> 
+                      <font color="#000000">
+		<input type="radio" id="LatSign" name="LatSign" value="南" onclick="javascript:resetRegion();" checked>南 
+		<input type="radio" id="LatSign" name="LatSign" value="北" onclick="javascript:resetRegion();">北</font> </td>     
+                    </tr>     
+                  </table>     
+                </td>     
+                <td width="27%">    
+                  <p align="center"><span class="pageNav"  onClick="javascript:pageNav(2)"><img border="0" src="image/page2.jpg" width="148" height="25"></span></p>   
+                </td>   
+              </tr>   
+            </table>   
+          </td>   
+        </tr>   
+      </table>   
+      <br>                 
+<div id="mapFrame" style="position:relative"  align="left">                 
+<img  style="cursor:crosshair"   src="image/WorldMap1.gif" id="worldMap" name="worldMap"  onClick="javascript:onClickMap()" onmousemove="javascript:getLocation()" onmouseout="javascript:window.status='';" ></img></div> 
+</div>    
+                 
+<div id="page2">                 
+<p align="left"><font size="2"><b>觀 測 時 間 設 定</b></font>                
+<br><font size="2">本 程 式 會 自 動 選 擇 合 適 的 時 區 ， 但               
+若 所 顯 示 的 不 正 確 ， 請 自 行 作 出 修 正 。</font></p>              
+<table border="0" width="68%" cellpadding="3">   
+  <tr>   
+    <td width="66%" bgcolor="#BEBEBE">   
+      <p align="center"><select id="Year" onchange="javascript:setSelectDay();"> </select><font color="#000000">年 </font><select id="Month" onchange="javascript:setSelectDay();"></select><font color="#000000">月 </font><select id="Day"></select><font color="#000000">日 </font><select id="Hour"></select><font color="#000000">時</font></td>   
+    <td width="34%" bgcolor="#BEBEBE">   
+      <p align="center"><font color="#000000">時 區&nbsp;&nbsp;</font><input type = text size = 6 id = "TimeZone" name="6"></td>      
+  </tr>      
+</table>      
+<p align="left"><font size="2"><b>其 他 星 圖 設 定</b><br>你 可 點 擊            
+圓 格 選 擇 星 圖 上 顯 示 的 最 暗 星 等 數 及 星 圖 大 小            
+， 點 擊 相 關 方 格 則 可 在 星 圖 上 同 時 顯 示 天 極 、            
+天 球 赤 道 、 黃 道 及 其 他 天 體。</font>                
+</p>               
+<table border="0" width="69%" cellpadding="2">     
+  <tr>     
+    <td width="100%" bgcolor="#BEBEBE">     
+      <table border="0" width="100%" cellpadding="4" cellspacing="0">     
+        <tr>     
+          <td width="100%" colspan="3"><font color="#000000">最 暗 星 等&nbsp;&nbsp; 
+            <input type="radio" id="MinMag" name="MinMag" value="5."   >5.5 
+		<input type="radio" id="MinMag" name="MinMag" value="5"    >5 
+		<input type="radio" id="MinMag" name="MinMag" value="4."   CHECKED    >4.5 
+		<input type="radio" id="MinMag" name="MinMag" value="4"     >4 
+		<input type="radio" id="MinMag" name="MinMag" value="3."    >3.5 
+		<input type="radio" id="MinMag" name="MinMag" value="3"    >3</font> </td>      
+        </tr>           
+        <tr>     
+          <td width="100%" colspan="3"><font color="#000000">星 圖 大 小&nbsp; 
+            <input type="radio" name="Size" id="Size" value="6"  >小 
+		<input type="radio" name="Size" id="Size" value="8" checked>中 
+		<input type="radio" name="Size" id="Size" value="1">大</font> </td>     
+        </tr>          
+        <tr>    
+          <td width="33%"> 
+          <input type="checkbox" name="SelectPoles" value="ON" /><font color="#000000"> 
+            天 極</font></td>     
+          <td width="33%"> 
+          <input type="checkbox" name="SelectEquator" value="ON" /><font color="#000000"> 
+            天 球 赤 道</font></td>     
+          <td width="34%"> 
+          <input type="checkbox" name="SelectEcliptic" value="ON" /><font color="#000000"> 
+            黃 道</font></td>     
+        </tr>     
+        <tr>     
+          <td width="33%"><input type="checkbox" name="SelectSun" value="ON" /><font color="#000000"> 
+            太 陽</font></td>     
+          <td width="33%"><input type="checkbox" name="SelectMoon" value="ON" /><font color="#000000"> 
+            月 球&nbsp;</font></td>      
+          <td width="34%"> 
+          <input type="checkbox" name="SelectPlanets" value="ON" /><font color="#000000"> 
+            五 大 行 星</font></td>      
+        </tr>      
+        <tr>      
+          <td width="33%"> 
+          <input type="checkbox" name="SelectDeepSky" value="ON" /><font color="#000000"> 
+            深 空 天 體</font></td>      
+          <td width="33%"> 
+          <input type="checkbox" name="SelectComets" value="ON" /><font color="#000000"> 
+            彗 星</font></td>      
+          <td width="34%"> 
+          <input type="checkbox" name="SelectShowers" value="ON" /><font color="#000000"> 
+            流 星 雨</font></td>      
+        </tr>      
+      </table>      
+    </td>      
+  </tr>      
+</table>      
+<br>        
+<table border="0" width="69%" cellpadding="3">        
+  <tr>        
+    <td width="33%" bgcolor="#BEBEBE">             
+<input  type="checkbox" id="PrintFriendly" name="PrintFriendly" value="ON"/>  <font color="#000000">方 便 列 印 版 本</font>              
+    </td>        
+    <td width="33%" bgcolor="#BEBEBE" align='center'><span class="pageNav"  onClick="javascript:pageNav(1)"><img border="0" src="image/page1.jpg" width="148" height="25"></span></td>        
+    <td width="34%" bgcolor="#BEBEBE" align='center'><input type="button" name="Submit" value="繪製星圖"  onClick="javascript:OpenStarMapWindow();"></td>        
+  </tr>        
+</table>        
+</div>              
+               
+</form>             
+</td></tr></table>      
+</body></html>
